@@ -1,0 +1,2135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"agen",
+				"agenda__date	(agenda.html)"
+			],
+			[
+				"title",
+				"title_modules"
+			],
+			[
+				"modu",
+				"modulable	(base_module.rb)"
+			],
+			[
+				"modul",
+				"modulable	(title_module.rb)"
+			],
+			[
+				"conten",
+				"content_blocks"
+			],
+			[
+				"content",
+				"content_blocks	(_form.html.erb)"
+			],
+			[
+				"ContentBlo",
+				"ContentBlockType	(20170103031525_create_text_blocks.rb)"
+			],
+			[
+				"blockabl",
+				"blockable_type	(20170102212852_create_content_blocks.rb)"
+			],
+			[
+				"featured",
+				"featured_image	(_form.html.erb)"
+			],
+			[
+				"media_item",
+				"media_items	(page.rb)"
+			],
+			[
+				"ini",
+				"initialImageHTML"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"wcma_get",
+				"wcma_get_lazyload_carousel_image_from_src	(lazyload_images.php)"
+			],
+			[
+				"fun",
+				"function	(carousels.js)"
+			],
+			[
+				"previou",
+				"previous_path_url"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"tilt",
+				"tile__title	(tile-event.php)"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"over",
+				"overflow	(_featured_images.scss)"
+			],
+			[
+				"retur",
+				"return_value"
+			],
+			[
+				"date_",
+				"date_range"
+			],
+			[
+				"box-s",
+				"box-shadow-heavier"
+			],
+			[
+				"sidebar",
+				"sidebar_content"
+			],
+			[
+				"session",
+				"sessionId"
+			],
+			[
+				"exhigram",
+				"exhigram_color"
+			],
+			[
+				"register",
+				"registerAttachmentView	(carousels.js)"
+			],
+			[
+				"curre",
+				"currentSlide"
+			],
+			[
+				"archive",
+				"archive_images"
+			],
+			[
+				"cache_",
+				"cache_timeout"
+			],
+			[
+				"template",
+				"template_args	(ongoing_events.php)"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"animation-",
+				"animation-delay"
+			],
+			[
+				"path_st",
+				"path_start_arrow_text"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"wcmastr",
+				"wcma_strip_transient_namespace"
+			],
+			[
+				"documn",
+				"document"
+			],
+			[
+				"get_post_",
+				"get_post_type	(index.php)"
+			],
+			[
+				"accordion",
+				"accordion_row	(accordion.php)"
+			],
+			[
+				"exc",
+				"exhigram_background_color	(event_exhigram_colors_helper_functions.php)"
+			],
+			[
+				"posts",
+				"posts-to-posts	(posts-to-posts.php)"
+			],
+			[
+				"plu",
+				"plugins"
+			],
+			[
+				"calenda",
+				"calendar_picker_background"
+			],
+			[
+				"relative_date",
+				"relative_date_time_as_date_obj"
+			],
+			[
+				"relative",
+				"relative_date"
+			],
+			[
+				"pos",
+				"position	(_default_page_template.scss)"
+			],
+			[
+				"attac",
+				"attachment"
+			],
+			[
+				"main-con",
+				"main-content-wrapper--news-item--single	(single-news-item.php)"
+			],
+			[
+				"padding-",
+				"padding-bottom-large	(page-news.php)"
+			],
+			[
+				"feature",
+				"featured_image"
+			],
+			[
+				"margin-bottom",
+				"margin-bottom-small"
+			],
+			[
+				"staf",
+				"staff_member_contact"
+			],
+			[
+				"margin-",
+				"margin-bottom-small"
+			],
+			[
+				"accon",
+				"accordion__content	(section-accordion.php)"
+			],
+			[
+				"menu-item",
+				"menu-item--center-content	(footer.php)"
+			],
+			[
+				"carouse",
+				"carousels"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"postimage",
+				"post_image_count"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"text-",
+				"text-align	(_helper_classes.scss)"
+			],
+			[
+				"staff_",
+				"staff_member	(staff_member_list.php)"
+			],
+			[
+				"staff",
+				"staff_members	(page-contact.php)"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"pop",
+				"populateEventDates"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"deav",
+				"deactivateSearch"
+			],
+			[
+				"seais",
+				"searchIsActive"
+			],
+			[
+				"active",
+				"activateSearch"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"session_d",
+				"session_id"
+			],
+			[
+				"quer",
+				"query_term"
+			],
+			[
+				"cus",
+				"cuisines"
+			],
+			[
+				"sug",
+				"suggestion"
+			],
+			[
+				"trn",
+				"transform"
+			],
+			[
+				"width",
+				"width_to_use"
+			],
+			[
+				"closest",
+				"closest_url"
+			],
+			[
+				"srcs",
+				"srcset_urls"
+			],
+			[
+				"srssi",
+				"srcset_size"
+			],
+			[
+				"pixel",
+				"pixel_size"
+			],
+			[
+				"colu",
+				"column_size"
+			],
+			[
+				"src",
+				"srcset"
+			],
+			[
+				"prep",
+				"preparation_time	(_form.html.erb)"
+			],
+			[
+				"pre",
+				"preparation_time"
+			],
+			[
+				"recipe__prtl",
+				"recipe__preparation-time__label"
+			],
+			[
+				"place",
+				"placeholder-active"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"scroll",
+				"scrollTop	(main.js)"
+			],
+			[
+				"transit",
+				"transition-delay"
+			],
+			[
+				"backgroun",
+				"background_color"
+			],
+			[
+				"bac",
+				"background_color"
+			],
+			[
+				"colorB",
+				"colorButton"
+			],
+			[
+				"editing",
+				"editing_database"
+			],
+			[
+				"original",
+				"original_width"
+			],
+			[
+				"src_re",
+				"src_retina"
+			],
+			[
+				"magic_mo",
+				"magic_modules"
+			],
+			[
+				"compre",
+				"compressedHeight"
+			],
+			[
+				"get_the",
+				"get_the_permalink"
+			],
+			[
+				"post_chunk_slide",
+				"post_chunk_slide_index"
+			],
+			[
+				"arc",
+				"archive_rows"
+			],
+			[
+				"slide_chu",
+				"slide_chunks"
+			],
+			[
+				"get_the_",
+				"get_the_excerpt"
+			],
+			[
+				"get_p",
+				"get_permalink"
+			],
+			[
+				"Inter",
+				"Interviews"
+			],
+			[
+				"insight",
+				"insightIndex"
+			],
+			[
+				"layou",
+				"layout-wrapper"
+			],
+			[
+				"gallery-lightbo",
+				"gallery-lightbox-images"
+			],
+			[
+				"galle",
+				"gallery-lightbox"
+			],
+			[
+				"regularS",
+				"regularSans"
+			],
+			[
+				"qti",
+				"qtip-content"
+			],
+			[
+				"large",
+				"largeSerif"
+			],
+			[
+				"dicl",
+				"disclaimer_title"
+			],
+			[
+				"mar",
+				"markerTitle"
+			],
+			[
+				"staff-light",
+				"staff-lightbox"
+			],
+			[
+				"staff-ligh",
+				"staff-lightbox"
+			],
+			[
+				"slide",
+				"slideWrapper"
+			],
+			[
+				"staff-lig",
+				"staff-lightbox-close"
+			],
+			[
+				"staff-lightb",
+				"staff-lightbox-content"
+			],
+			[
+				"an",
+				"animating"
+			],
+			[
+				"splash-head",
+				"splash-headline-lines"
+			],
+			[
+				"splash",
+				"splashTimeout"
+			],
+			[
+				"anim",
+				"animateSplashText"
+			],
+			[
+				"medium",
+				"mediumSans"
+			],
+			[
+				"small",
+				"smallSans"
+			],
+			[
+				"haas",
+				"haas55"
+			],
+			[
+				"overfl",
+				"overflowAuto"
+			],
+			[
+				"post-li",
+				"post-lightbox-content"
+			],
+			[
+				"entry",
+				"entry-content"
+			],
+			[
+				"latl",
+				"latLngParking"
+			],
+			[
+				"tra",
+				"transition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 211.0,
+		"last_filter": "packlist",
+		"selected_items":
+		[
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"packinstapack",
+				"Package Control: Install Package"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"editproj",
+				"Project: Edit Project"
+			],
+			[
+				"revea",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"paklist",
+				"Package Control: List Packages"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"alta",
+				"AlignTab"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"setsrails",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"amed",
+				"Git: Amend Commit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"editpr",
+				"Project: Edit Project"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"php	",
+				"Set Syntax: PHP"
+			],
+			[
+				"copy",
+				"File: Copy Name"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"logcu",
+				"Git: Quick Log Current File"
+			],
+			[
+				"log",
+				"Git: Quick Log"
+			],
+			[
+				"gitspuh",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Log"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"gitpu",
+				"Git: Pull"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"editp",
+				"Project: Edit Project"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"atli",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"altab",
+				"AlignTab"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"alita",
+				"AlignTab"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"sort lin",
+				"Sort Lines"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"sor",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"re ",
+				"File: Rename"
+			],
+			[
+				"gitpuh",
+				"Git: Push"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"prefreuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefere",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"alitab",
+				"AlignTab"
+			],
+			[
+				"alista",
+				"Snippet: text-align-last:auto"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"sublime",
+				"SublimeGit: Version"
+			],
+			[
+				"upperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"gi push",
+				"Git: Push"
+			],
+			[
+				"sublime gi",
+				"SublimeGit: Add License"
+			],
+			[
+				"set synax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pack inst ",
+				"Package Control: Install Package"
+			],
+			[
+				"packup",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"git amme",
+				"Git: Amend Commit"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"add br",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"debug brea",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"xde",
+				"Xdebug: Set Watch Expression"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"Browse Mode..."
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"file bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"alin",
+				"AlignTab"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"pak in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 456.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dylanfisher/projects/fisherdm.github.io"
+	],
+	"file_history":
+	[
+		"/Users/dylanfisher/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/dylanfisher/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dylanfisher/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dylanfisher/projects/ci/about.md",
+		"/Users/dylanfisher/projects/ci/_agendas/week_1.md",
+		"/Users/dylanfisher/projects/ci/_layouts/agenda.html",
+		"/Users/dylanfisher/projects/ci/_projects/remixes.md",
+		"/Users/dylanfisher/projects/ci/_layouts/project.html",
+		"/Users/dylanfisher/projects/ci/_sass/base/_typography.scss",
+		"/Users/dylanfisher/projects/ci/_sass/base/_ui.scss",
+		"/Users/dylanfisher/projects/ci/info.html",
+		"/Users/dylanfisher/projects/ci/_sass/partials/_layout.scss",
+		"/Users/dylanfisher/projects/ci/_config.yml",
+		"/Users/dylanfisher/projects/ci/_includes/head.html",
+		"/Users/dylanfisher/projects/ci/_includes/scripts.html",
+		"/Users/dylanfisher/Dropbox/projects/sublime_projects/ci.sublime-project",
+		"/Users/dylanfisher/projects/ci/lab/slides/css/theme/custom.css",
+		"/Users/dylanfisher/projects/ci/lab/slides/week_1.html",
+		"/Users/dylanfisher/projects/ci/lab/slides/css/fonts.css",
+		"/Users/dylanfisher/projects/ci/_sass/core/_fonts.scss",
+		"/Users/dylanfisher/projects/ci/projects.html",
+		"/Users/dylanfisher/projects/ci/resources.html",
+		"/Users/dylanfisher/projects/ci/.gitignore",
+		"/Users/dylanfisher/projects/ci/.git/COMMIT_EDITMSG",
+		"/Users/dylanfisher/projects/ci/readings.html",
+		"/Users/dylanfisher/Downloads/starter-package/public_html/project_one_name/page_name.html",
+		"/Users/dylanfisher/Downloads/starter-package/public_html/project_one_name/index.html",
+		"/Users/dylanfisher/projects/ci/_layouts/full_page.html",
+		"/Users/dylanfisher/projects/ci/agenda.html",
+		"/Users/dylanfisher/projects/ci/_site/readings/index.html",
+		"/Users/dylanfisher/.bash_profile",
+		"/Users/dylanfisher/projects/ci/_sass/base/_helpers.scss",
+		"/Users/dylanfisher/projects/ci/_projects/agenda.md",
+		"/Users/dylanfisher/projects/ci/agendas.html",
+		"/Users/dylanfisher/projects/ci/ci_theme/README.md",
+		"/Users/dylanfisher/projects/ci/Gemfile",
+		"/Users/dylanfisher/projects/ci/lab/slides/index.html",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170115185725_change_page_slot_blockable_version_id_to_previous_version_id.forest.rb",
+		"/Users/dylanfisher/projects/forest_blog/Gemfile",
+		"/Users/dylanfisher/projects/forest_blog/config/routes.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170116175512_create_weekdays.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/schema.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170109182801_create_page_slots.forest.rb",
+		"/Users/dylanfisher/.ssh/config",
+		"/Users/dylanfisher/projects/forest_blog/.git/config",
+		"/Users/dylanfisher/projects/forest_blog/config/secrets.yml",
+		"/Users/dylanfisher/projects/forest_blog/app/assets/javascripts/application.js",
+		"/Users/dylanfisher/projects/forest_blog/config/application.yml",
+		"/Users/dylanfisher/projects/forest_blog/config/database.yml",
+		"/Users/dylanfisher/.gitconfig",
+		"/Users/dylanfisher/projects/forest_blog/config/puma.rb",
+		"/Users/dylanfisher/projects/forest_blog/config/environments/development.rb",
+		"/Users/dylanfisher/projects/forest_blog/app/views/forest/pages/show.html.erb",
+		"/Users/dylanfisher/projects/forest_blog/Guardfile",
+		"/Users/dylanfisher/projects/forest_blog/Gemfile.lock",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170111051306_create_text_blocks.forest.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170107214532_add_featured_image_to_pages.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170109182801_create_forest_page_slots.forest.rb",
+		"/Users/dylanfisher/projects/forest_blog/app/views/forest/pages/_page_modules.html.erb",
+		"/Users/dylanfisher/projects/forest_blog/app/views/forest/pages/_page_module_slot_fields.html.erb",
+		"/Users/dylanfisher/projects/forest_blog/app/views/forest/pages/_base_module_fields.html.erb",
+		"/Users/dylanfisher/projects/forest_blog/app/models/title_module.rb",
+		"/Users/dylanfisher/projects/forest_blog/app/models/base_module.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170108234136_create_base_modules.rb",
+		"/Users/dylanfisher/projects/forest_blog/app/models/page_module_slot.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170109024146_create_module_kinds.forest.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170108234140_create_page_module_slots.rb",
+		"/Users/dylanfisher/projects/forest_blog/db/migrate/20170108234144_create_title_modules.rb",
+		"/Users/dylanfisher/projects/forest_blog/config/application.rb",
+		"/Users/dylanfisher/projects/forest_blog/app/controllers/application_controller.rb",
+		"/Users/dylanfisher/projects/forest_blog/.gitignore",
+		"/Users/dylanfisher/projects/forest/.gitignore",
+		"/Users/dylanfisher/projects/forest.bak/app/views/media_items/index.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/media_items/index.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/admin/_index_header.html.erb",
+		"/Users/dylanfisher/projects/forest/app/assets/javascripts/admin/partials/repeatable_fields_init.js",
+		"/Users/dylanfisher/projects/forest/app/models/page.rb",
+		"/Users/dylanfisher/projects/forest/app/controllers/pages_controller.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170107175137_add_field_data_to_pages.rb",
+		"/Users/dylanfisher/projects/forest/app/assets/javascripts/admin/partials/menus.js",
+		"/Users/dylanfisher/projects/forest/app/views/pages/_title_module_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/app/models/title_module.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170107173117_create_title_modules.rb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/_form.html.erb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170107041450_create_base_modules.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170107040655_create_page_modules.rb",
+		"/Users/dylanfisher/projects/forest/app/models/base_module.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20161219231741_create_media_items.rb",
+		"/Users/dylanfisher/projects/forest/app/models/application_record.rb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/_base_module_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/db/schema.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170105033821_create_base_modules.rb",
+		"/Users/dylanfisher/projects/forest/app/models/media_item.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170105033616_create_title_modules.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170105031938_create_join_table_pages_title_modules.rb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/edit.html.erb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170104040238_create_base_modules.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20161217195933_create_friendly_id_slugs.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170104033808_create_base_modules.rb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/index.html.erb",
+		"/Users/dylanfisher/projects/forest/app/assets/javascripts/application_admin.js",
+		"/Users/dylanfisher/projects/forest/Gemfile",
+		"/Users/dylanfisher/projects/forest/app/views/pages/_content_block_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/content_blocks/_title_block_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/content_blocks/_text_block_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/app/models/title_block.rb",
+		"/Users/dylanfisher/projects/forest/app/models/text_block.rb",
+		"/Users/dylanfisher/projects/forest/app/models/content_block.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170103050141_add_polymorphism_to_content_blocks.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170102212852_create_content_blocks.rb",
+		"/Users/dylanfisher/projects/forest/app/models/content_block_type.rb",
+		"/Users/dylanfisher/projects/forest/app/views/content_blocks/title_block/_edit.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/content_blocks/text_block/_edit.html.erb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170103035647_create_title_blocks.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170103031525_create_text_blocks.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170103031422_create_content_block_types.rb",
+		"/Users/dylanfisher/projects/forest/app/views/content_blocks/text_block/_content_block_type_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/content_blocks/title_block/_content_block_type_fields.html.erb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170103033305_create_content_blocks_content_block_types.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170102213308_create_text_blocks.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20170103022936_create_content_blocks_pages.rb",
+		"/Users/dylanfisher/projects/forest/db/migrate/20161225212203_create_user_groups.rb",
+		"/Users/dylanfisher/projects/forest/app/views/media_items/_form.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/media_items/_media_item_grid_layout.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/settings/_form.html.erb",
+		"/Users/dylanfisher/projects/forest/app/helpers/meta_helper.rb",
+		"/Users/dylanfisher/projects/forest/app/views/pages/show.html.erb",
+		"/Users/dylanfisher/projects/forest/app/views/layouts/application.html.erb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.php",
+			"",
+			"*.scss",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.scss",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"/Users/dylanfisher/projects/wcma/wp-content/themes/wcma/functions/plugins/posts-to-posts",
+			"/Users/dylanfisher/projects/wcma/wp-content/themes/wcma/functions/plugins/posts-to-posts/vendor/scribu",
+			"",
+			"/Users/dylanfisher/projects/wcma/wp-content/themes/wcma/functions/plugins/posts-to-posts/vendor/scribu",
+			"",
+			"/Users/dylanfisher/projects/wcma/wp-content/themes/wcma/functions/plugins/posts-to-posts/vendor/scribu",
+			"/Users/dylanfisher/projects/wcma/wp-content/themes/wcma/functions/plugins/posts-to-posts",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"",
+			"*.html.erb",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.html.erb",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.erb",
+			"*.rb",
+			"*.js",
+			"*.scss",
+			"",
+			"*.rb",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.erb",
+			"*.scss",
+			"",
+			"*.erb",
+			"",
+			"*.erb",
+			"",
+			"*.erb",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.scs",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.js",
+			"*.php",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"",
+			"*.scss",
+			"*.php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".agenda",
+			"project__info",
+			".project",
+			"ul",
+			"credits",
+			"](",
+			"http://",
+			"http://temporarystedelijk.com/",
+			"http://www.documenta14.de/en/",
+			"http://ohshitgit.com/",
+			"https://rama.works/",
+			"http://temporarystedelijk.com/",
+			"http://www.documenta14.de/en/",
+			"v1",
+			"fonts/",
+			"li ",
+			"li",
+			".project-credits",
+			"readings",
+			".reading",
+			"agendas",
+			"agenda.",
+			"project",
+			"middle",
+			"top",
+			".text-right",
+			"div",
+			"project",
+			"img src",
+			"img src=\"\"",
+			"h2",
+			"h1",
+			"zoom",
+			"blank-image",
+			"git",
+			"bash",
+			"<p>",
+			"bash",
+			"section",
+			"small",
+			"h2",
+			"`",
+			"code",
+			";",
+			"blank-image",
+			"configure",
+			"git",
+			"ul",
+			"h2",
+			"ul",
+			"blockable_version_id",
+			"index_page_slots_on_blockable_type_and_blockable_version_id",
+			"opening_hours",
+			"blockable_version_id",
+			"blockable",
+			"versions",
+			"host",
+			"dylan",
+			"runtime",
+			"home/deploy/appname",
+			"listen",
+			"listen-on",
+			"guard",
+			"jquery-rails-",
+			"jquery-rails",
+			"jquery-",
+			"quiet",
+			"binding.pry",
+			".blocks",
+			"h1",
+			"page_module_slot",
+			"page_module_slots",
+			"modulable",
+			", foreign_key: true",
+			"page_module",
+			"page_modules",
+			"task",
+			"tasks",
+			"@project",
+			"imageable",
+			"paperclip",
+			"forest_",
+			"puma",
+			"byebug",
+			"wellspring",
+			"files",
+			"field_data",
+			"repeatable_field",
+			"an-input-field",
+			"jQuery",
+			"'",
+			"\"",
+			"task",
+			"tasks",
+			"pm",
+			"appointments",
+			"\"",
+			"title_modules",
+			"<%#",
+			"attacha",
+			"attachable",
+			"attach",
+			"<%=",
+			"base_module",
+			"<%#",
+			"<%",
+			"page_id",
+			"base_modules",
+			"f.",
+			"base_module_form",
+			"<%",
+			"f.",
+			"ff",
+			"<%",
+			"update",
+			"modular",
+			"modulars",
+			"{",
+			"module_form",
+			"\"",
+			"tasks",
+			"task",
+			"modulable",
+			"module",
+			":",
+			" ",
+			"-- remove_index(",
+			"add_index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wcma_get_truncated_tile_text",
+			"",
+			"wcma_compare_dates_descending",
+			"wcma_compare_dates_ascending",
+			"exhigram_background_color_style",
+			"get_exhigram_background_color_style",
+			"$neutral",
+			"",
+			"background-fill",
+			"devise_parameter_sanitizer.permit",
+			"",
+			"module-spacer",
+			"'d.m'",
+			"regular-sans",
+			"thin-sans",
+			"audio_url",
+			"featured-content-image-section",
+			"featured-content-related-posts",
+			"url(\"",
+			"",
+			"not-small",
+			"$font-regular",
+			"title",
+			"anokafaruqee.com",
+			"<?php echo $image_at_size_large ?>",
+			"img src=\"<?php echo $image_at_size ?>\" data-size-large=\"<php echo $image_at_size_large ?>\"",
+			"<img src=\"<?php echo $image_at_size ?>\" data-size-large=\"<php echo $image_at_size_large ?>\">",
+			"<img src=\"<?php echo $image_at_size ?>\">",
+			"$size_large = 'large';",
+			"$size_large = 'medium';",
+			"<img src=\"<?php echo $image_at_size_large ?>\">",
+			"<img src=\"$image_at_size_large\">",
+			"block_half",
+			"block",
+			" ",
+			"",
+			"  ",
+			"",
+			"height: 46px;",
+			"  ",
+			"class=\"search-tag\" disabled",
+			"../../../images/select2-spinner.gif",
+			"../../../images/select2.png",
+			"  ",
+			"\");",
+			"console.log(\"",
+			"h2",
+			"h3",
+			"h4",
+			"wp_unregister_widget_control",
+			"\\t",
+			"",
+			"tab",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 148.0
+	},
+	"output.git-commit":
+	{
+		"height": 142.0
+	},
+	"output.git-init":
+	{
+		"height": 136.0
+	},
+	"output.git-merge":
+	{
+		"height": 148.0
+	},
+	"output.git-pull":
+	{
+		"height": 160.0
+	},
+	"output.git-push":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fisherdm.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"info",
+				"info.html"
+			],
+			[
+				"typo",
+				"_sass/base/_typography.scss"
+			],
+			[
+				"uiscs",
+				"_sass/base/_ui.scss"
+			],
+			[
+				"projecremi",
+				"_projects/remixes.md"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"agen",
+				"_agendas/week_1.md"
+			],
+			[
+				"agendahtm",
+				"_layouts/agenda.html"
+			],
+			[
+				"projechtml",
+				"_layouts/project.html"
+			],
+			[
+				"layouscs",
+				"_sass/partials/_layout.scss"
+			],
+			[
+				"scrip",
+				"_includes/scripts.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"ageweek1",
+				"_agendas/week_1.md"
+			],
+			[
+				"customcss",
+				"lab/slides/css/theme/custom.css"
+			],
+			[
+				"fonts",
+				"_sass/core/_fonts.scss"
+			],
+			[
+				"week1",
+				"_agendas/week_1.md"
+			],
+			[
+				"resou",
+				"resources.html"
+			],
+			[
+				"script",
+				"_includes/scripts.html"
+			],
+			[
+				"projec",
+				"_layouts/project.html"
+			],
+			[
+				"proj",
+				"projects.html"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"resour",
+				"resources.html"
+			],
+			[
+				"remix",
+				"_projects/remixes.md"
+			],
+			[
+				"projecre",
+				"_projects/remixes.md"
+			],
+			[
+				"readin",
+				"readings.html"
+			],
+			[
+				"layou",
+				"_sass/partials/_layout.scss"
+			],
+			[
+				"layoupage",
+				"_layouts/page.html"
+			],
+			[
+				"readings",
+				"readings.html"
+			],
+			[
+				"read",
+				"readings.html"
+			],
+			[
+				"projects",
+				"projects.html"
+			],
+			[
+				"agenda",
+				"agenda.html"
+			],
+			[
+				"pr",
+				"projects.html"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"helper",
+				"_sass/base/_helpers.scss"
+			],
+			[
+				"custom",
+				"css/theme/custom.css"
+			],
+			[
+				"black",
+				"css/theme/black.css"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"",
+				"timeline.md"
+			],
+			[
+				"changepageslotblockableversionidtopreviousversionid",
+				"db/migrate/20170115185725_change_page_slot_blockable_version_id_to_previous_version_id.forest.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"appljs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"secre",
+				"config/secrets.yml"
+			],
+			[
+				"confpuma",
+				"config/puma.rb"
+			],
+			[
+				"applyml",
+				"config/application.yml"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"guar",
+				"Guardfile"
+			],
+			[
+				"gem",
+				"Gemfile.lock"
+			],
+			[
+				"deve.rb",
+				"config/environments/development.rb"
+			],
+			[
+				"addfea",
+				"db/migrate/20170107214532_add_featured_image_to_pages.rb"
+			],
+			[
+				"pageshow",
+				"app/views/forest/pages/show.html.erb"
+			],
+			[
+				"pageslofiel",
+				"app/views/forest/pages/_page_module_slot_fields.html.erb"
+			],
+			[
+				"pagemodulhtmler",
+				"app/views/forest/pages/_page_module_slot_fields.html.erb"
+			],
+			[
+				"basemo",
+				"app/models/base_module.rb"
+			],
+			[
+				"basemod",
+				"app/models/base_module.rb"
+			],
+			[
+				"createpagemo",
+				"db/migrate/20170108234140_create_page_module_slots.rb"
+			],
+			[
+				"modulekind",
+				"db/migrate/20170109024146_create_module_kinds.forest.rb"
+			],
+			[
+				"pagemofield",
+				"app/views/forest/pages/_page_module_slot_fields.html.erb"
+			],
+			[
+				"pagemohtmler",
+				"app/views/forest/pages/_page_modules.html.erb"
+			],
+			[
+				"titlemod",
+				"app/models/title_module.rb"
+			],
+			[
+				"basemorb",
+				"app/models/base_module.rb"
+			],
+			[
+				"pagemo",
+				"app/models/page_module_slot.rb"
+			],
+			[
+				"forestpageshow",
+				"app/views/forest/pages/show.html.erb"
+			],
+			[
+				"applrb",
+				"config/application.rb"
+			],
+			[
+				"applcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"inde",
+				"app/views/media_items/index.html.erb"
+			],
+			[
+				"scripjs",
+				"app/assets/javascripts/admin/partials/menus.js"
+			],
+			[
+				"pageform",
+				"app/views/pages/_form.html.erb"
+			],
+			[
+				"pagecon",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"titlemo",
+				"app/models/title_module.rb"
+			],
+			[
+				"page.",
+				"app/models/page.rb"
+			],
+			[
+				"basemodule",
+				"app/models/base_module.rb"
+			],
+			[
+				"basemodul",
+				"app/models/base_module.rb"
+			],
+			[
+				"createbasemodul",
+				"db/migrate/20170107041450_create_base_modules.rb"
+			],
+			[
+				"create",
+				"db/migrate/20161219231741_create_media_items.rb"
+			],
+			[
+				"crepagemo",
+				"db/migrate/20170107040655_create_page_modules.rb"
+			],
+			[
+				"applreco",
+				"app/models/application_record.rb"
+			],
+			[
+				"page",
+				"app/models/page.rb"
+			],
+			[
+				"createmediai",
+				"db/migrate/20161219231741_create_media_items.rb"
+			],
+			[
+				"mediaite",
+				"app/models/media_item.rb"
+			],
+			[
+				"titlmo",
+				"app/models/title_module.rb"
+			],
+			[
+				"createtitlemo",
+				"db/migrate/20170105033616_create_title_modules.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"basemodu",
+				"app/models/base_module.rb"
+			],
+			[
+				"pagescon",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"titlemorb",
+				"app/models/title_module.rb"
+			],
+			[
+				"basemofie",
+				"app/views/pages/_base_module_fields.html.erb"
+			],
+			[
+				"basemor",
+				"app/models/base_module.rb"
+			],
+			[
+				"page.r",
+				"app/models/page.rb"
+			],
+			[
+				"pageedi",
+				"app/views/pages/edit.html.erb"
+			],
+			[
+				"page.rb",
+				"app/models/page.rb"
+			],
+			[
+				"creabaseo",
+				"db/migrate/20170104040238_create_base_modules.rb"
+			],
+			[
+				"tit",
+				"app/models/title_module.rb"
+			],
+			[
+				"pageinde",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"textfields",
+				"app/views/pages/content_blocks/_text_block_fields.html.erb"
+			],
+			[
+				"titlblofiel",
+				"app/views/pages/content_blocks/_title_block_fields.html.erb"
+			],
+			[
+				"polymo",
+				"db/migrate/20170103050141_add_polymorphism_to_content_blocks.rb"
+			],
+			[
+				"creconbl",
+				"db/migrate/20170102212852_create_content_blocks.rb"
+			],
+			[
+				"textblo",
+				"app/models/text_block.rb"
+			],
+			[
+				"titlbl",
+				"app/models/title_block.rb"
+			],
+			[
+				"fieldshtml",
+				"app/views/content_blocks/text_block/_fields.html.erb"
+			],
+			[
+				"textblockedi",
+				"app/views/content_blocks/text_block/_edit.html.erb"
+			],
+			[
+				"creattitlebl",
+				"db/migrate/20170103035647_create_title_blocks.rb"
+			],
+			[
+				"titleblock",
+				"db/migrate/20170103035647_create_title_blocks.rb"
+			],
+			[
+				"contebloc",
+				"app/models/content_block.rb"
+			],
+			[
+				"createtextblo",
+				"db/migrate/20170103031525_create_text_blocks.rb"
+			],
+			[
+				"createtitlblock",
+				"db/migrate/20170103035647_create_title_blocks.rb"
+			],
+			[
+				"createtext",
+				"db/migrate/20170103031525_create_text_blocks.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"conteblocktype",
+				"app/models/content_block_type.rb"
+			],
+			[
+				"createmediaite",
+				"db/migrate/20161219231741_create_media_items.rb"
+			],
+			[
+				"createtextblokc",
+				"db/migrate/20170103031525_create_text_blocks.rb"
+			],
+			[
+				"creatextblock",
+				"db/migrate/20170103031525_create_text_blocks.rb"
+			],
+			[
+				"createtextbl",
+				"db/migrate/20170102213308_create_text_blocks.rb"
+			],
+			[
+				"creaconbl",
+				"db/migrate/20170102212852_create_content_blocks.rb"
+			],
+			[
+				"createusergr",
+				"db/migrate/20161225212203_create_user_groups.rb"
+			],
+			[
+				"createconbl",
+				"db/migrate/20170102212852_create_content_blocks.rb"
+			],
+			[
+				"contebl",
+				"app/models/content_block.rb"
+			],
+			[
+				"adminjs",
+				"app/assets/javascripts/application_admin.js"
+			],
+			[
+				"model",
+				"app/models/application_record.rb"
+			],
+			[
+				"settincon",
+				"app/controllers/settings_controller.rb"
+			],
+			[
+				"settingform",
+				"app/views/settings/_form.html.erb"
+			],
+			[
+				"migrasetting",
+				"db/migrate/20161219045555_create_default_settings.rb"
+			],
+			[
+				"shareheader",
+				"app/views/layouts/_shared_head.html.erb"
+			],
+			[
+				"applhtmler",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"adminscs",
+				"app/assets/stylesheets/main_admin.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"econfil",
+				"~/projects/sublime_projects/economy-filepicker.sublime-project"
+			],
+			[
+				"econ",
+				"~/projects/sublime_projects/economy4.sublime-project"
+			],
+			[
+				"prin",
+				"~/projects/sublime_projects/printed_matter.sublime-project"
+			],
+			[
+				"aam",
+				"~/projects/sublime_projects/aam.sublime-project"
+			],
+			[
+				"gsa",
+				"~/projects/sublime_projects/gsapp.sublime-project"
+			],
+			[
+				"green",
+				"~/Dropbox/projects/sublime_projects/greengrassi.sublime-project"
+			],
+			[
+				"link",
+				"~/projects/sublime_projects/linkedbyair4.sublime-project"
+			],
+			[
+				"gsap",
+				"~/projects/sublime_projects/gsapp.sublime-project"
+			],
+			[
+				"nada",
+				"~/projects/sublime_projects/nada.sublime-project"
+			],
+			[
+				"",
+				"~/projects/sublime_projects/menil.sublime-project"
+			],
+			[
+				"meni",
+				"~/projects/sublime_projects/menil.sublime-project"
+			],
+			[
+				"pr",
+				"~/projects/sublime_projects/printed_matter.sublime-project"
+			],
+			[
+				"rose",
+				"~/Dropbox/projects/sublime_projects/roserage.sublime-project"
+			],
+			[
+				"printed",
+				"~/projects/sublime_projects/printed_matter.sublime-project"
+			],
+			[
+				"econfile",
+				"~/projects/sublime_projects/economy-filepicker.sublime-project"
+			],
+			[
+				"ica",
+				"~/projects/sublime_projects/ica365.sublime-project"
+			],
+			[
+				"5an",
+				"~/projects/sublime_projects/5andbox.sublime-project"
+			],
+			[
+				"econ4",
+				"~/projects/sublime_projects/economy4.sublime-project"
+			],
+			[
+				"tang",
+				"~/projects/sublime_projects/tang.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
